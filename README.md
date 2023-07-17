@@ -2,7 +2,7 @@
 
 Framework php léger et simple
 
-## 1. Mise en place du projet
+## Mise en place du projet
 
 Télécharger la dernière version stable (à ce jour sur la branche dev) et initialiser un dépot git.
 Installer le package de base nécessaire:
