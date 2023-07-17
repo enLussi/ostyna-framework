@@ -12,8 +12,8 @@ composer require ostyna/core
 
 De la même manière et selon vos besoins, vous pouvez installer d'autres dépendances:
 ```sh
-ostyna/orm
-ostyna/sing
+composer require ostyna/orm
+composer require ostyna/sing
 ```
 
 Une fois vos dépendances installer, dupliquer et renommer le dossier .env en .env.local en complétant avec les informations de votre base de données si vous en utilisez une.
